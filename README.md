@@ -1,4 +1,5 @@
-<p style="text-align: center;"><a  href=""><h1>DrumKit</h1></a></p>
+
+<a  href=""><h1>DrumKit</h1></a>
 
 A Drum kit in a website. 
 
